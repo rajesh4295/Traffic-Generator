@@ -16,7 +16,7 @@
     "nodemon": "^2.0.2",
     "proxy-lists": "^1.20.1",
     "request": "^2.88.0",
-    "selenium-webdriver": "^4.0.0-alpha.5",
+    "selenium-webdriver": "^4.4.0",
     "winston": "^3.2.1"
   }
 }
